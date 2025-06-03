@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: PSY - GANGNAM
   m_EditorClassIdentifier: 
   musicName: "PSY - GANGNAM STYLE(\uAC15\uB0A8\uC2A4\uD0C0\uC77C) MV"
-  danceName: Gangnam Style
-  notesConfig: {fileID: 0}
-  speed: 0
+  animationName: Gangnam Style
+  notesConfig: {fileID: 4900000, guid: ae3e566f5d6b6e8448dffb40bc078e92, type: 3}
+  speed: 200

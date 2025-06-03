@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Drift vale
   m_EditorClassIdentifier: 
   musicName: Drift Vale
-  danceName: Samba Dancing
-  notesConfig: {fileID: 0}
-  speed: 100
+  animationName: Samba Dancing
+  notesConfig: {fileID: 4900000, guid: 80522c3935fd1da4ab96f7b685000954, type: 3}
+  speed: 200
