@@ -17,6 +17,7 @@ public class DanceController : MonoBehaviour
     [SerializeField]
     private string _failAnimationName = "Fail";
     private Coroutine _resetDanceCoroutine;
+
     private SoundData _currentSoundData;
 
     public void ActivateSelectDance()

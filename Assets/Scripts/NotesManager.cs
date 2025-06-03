@@ -56,9 +56,11 @@ public class NotesManager : MonoBehaviour
 
                 NotesController note = noteObject.GetComponent<NotesController>();
                 note.transform.SetParent(currentLane.transform);
+                //
+                //notesToSpawn.Remove(noteData);
+                //
                 note.transform.localScale = Vector3.one;
                 note.Speed = _currentSpeed;
-
                 _instantiatedNotes.Add(noteObject);
             }
         }
