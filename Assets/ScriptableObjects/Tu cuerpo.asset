@@ -15,4 +15,4 @@ MonoBehaviour:
   musicName: 'quiero sentir tu cuerpo juntito al mio [LetraLyrics]'
   animationName: Hip Hop Dancing
   notesConfig: {fileID: 4900000, guid: 5de395802998be7409f430a1f95813d2, type: 3}
-  speed: 300
+  speed: 400

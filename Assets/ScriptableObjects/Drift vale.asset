@@ -15,4 +15,4 @@ MonoBehaviour:
   musicName: Drift Vale
   animationName: Samba Dancing
   notesConfig: {fileID: 4900000, guid: 80522c3935fd1da4ab96f7b685000954, type: 3}
-  speed: 300
+  speed: 400
